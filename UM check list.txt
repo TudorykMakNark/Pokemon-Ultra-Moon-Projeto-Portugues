@@ -1,0 +1,8 @@
+Moon.txt
+Text File : 22 Incompleto (Misc text)
+Text File : 38 Completo (Introdução do jogo 2)
+Text File : 55 Completo (Introdução do jogo 1)
+Text File : 97 Incompleto (Algo do teclado)
+
+Moon-S.txt
+Text File : 27 Incompleto (Primeira cena em casa)
