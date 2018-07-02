@@ -5,4 +5,7 @@ Text File : 55 Completo (Introdução do jogo 1)
 Text File : 97 Incompleto (Algo do teclado)
 
 Moon-S.txt
-Text File : 27 Incompleto (Primeira cena em casa)
+Text File : 27 Completo (Primeira cena em casa)
+Text File : 28 Completo (Partes do quarto)
+Text File : 29 Incompleto (Segunda cena em casa)
+Text File : 799 Incompleto (Quarto protagonista)
