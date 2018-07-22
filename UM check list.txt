@@ -1,8 +1,15 @@
 Moon.txt
-Text File : 22 Incompleto (Misc text)
-Text File : 38 Completo (Introdução do jogo 2)
-Text File : 55 Completo (Introdução do jogo 1)
-Text File : 97 Incompleto (Algo do teclado)
-
+Text File : 22 	 Incompleto (Misc text)
+Text File : 24 	 Incompleto (Menu in-game)
+Text File : 38 	 Completo 	(Introdução do jogo 2)
+Text File : 55 	 Completo 	(Introdução do jogo 1)
+Text File : 71 	 Completo 	(Menu Opções)
+Text File : 97 	 Incompleto (Algo do teclado)
+Text File : 99 	 Incompleto (Tela inicial)
+Text File : 107	 Incompleto (Passaporte do Treinador)
 Moon-S.txt
-Text File : 27 Incompleto (Primeira cena em casa)
+Text File : 27 	 Completo 	(Primeira cena em casa)
+Text File : 28 	 Completo 	(Partes do quarto)
+Text File : 29 	 Incompleto (Segunda cena em casa)
+Text File : 799  Incompleto (Quarto protagonista)
+Text File : 1000 Incompleto
